@@ -10,6 +10,9 @@
 </div>
 
 ---
+Project video: 
+
+https://github.com/user-attachments/assets/3b4af788-7e6d-47e5-8145-c6541cd8f958
 
 ## Summary AI
 
