@@ -196,11 +196,11 @@ with right:
     st.header("Today I Learned:")
     text = st.text_area("",height=150, key="input_text")
     
-    button = st.button("Summarize", on_click=add_topic) 
+    button = st.button("Summarize", on_click=add_topic, width=150) 
        
     "---"
     if st.session_state:
-        st.subheader("Last Summar:")
+        st.subheader("Last Summary:")
         st.markdown(st.session_state.summary)
         st.subheader("Feedback and Suggestion")
         st.markdown(st.session_state.feedback_suggestion)

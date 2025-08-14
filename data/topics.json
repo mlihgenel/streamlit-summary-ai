@@ -1,0 +1,11 @@
+[
+  {
+    "text": "Pythonda veri yapıları, döngüler, fonksiyonlar ve class yapılarını çalıştım.",
+    "created": "2025-08-14, 14:17",
+    "date": "2025-08-14",
+    "title": "Python Programlama Temelleri",
+    "summary": "Metin, Python programlama dilinde temel veri yapıları, döngüler, fonksiyonlar ve sınıflar (class'lar) üzerinde çalışma gerçekleştirildiğini özetliyor.  Daha detaylı bilgi verilmemiş olup, sadece bu konuların incelendiği belirtiliyor.",
+    "keywords": "Python, Veri Yapıları, Fonksiyonlar",
+    "feedback_suggestion": "Metin oldukça özlü.  Çalışmanın kapsamını genişletmek için, hangi veri yapıları (örneğin, listeler, sözlükler, kümeler), hangi tür döngüler (örneğin, for, while), hangi tür fonksiyonlar (örneğin, fonksiyon tanımlama, parametreler, geri dönüş değerleri) ve hangi tür class yapılarının (örneğin, kalıtım, polimorfizm) incelendiği gibi ayrıntılara girilmesi önerilir.  Ayrıca, çalışmanın çıktılarından, karşılaşılmış zorluklardan ve elde edilen sonuçlardan bahsetmek, metni daha bilgilendirici hale getirecektir.  Örnek kod parçacıkları veya görseller eklemek de faydalı olabilir."
+  }
+]
